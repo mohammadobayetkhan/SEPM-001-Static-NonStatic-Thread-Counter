@@ -1,1 +1,14 @@
-
+java Obayet_Thread 1 1000 true
+java Obayet_Thread 1 1000 false
+java Obayet_Thread 2 10000 true
+java Obayet_Thread 2 10000 false
+java Obayet_Thread 5 10000 true
+java Obayet_Thread 5 10000 false
+java Obayet_Thread 10 50000 true
+java Obayet_Thread 10 50000 false
+java Obayet_Thread 20 50000 true
+java Obayet_Thread 20 50000 false
+java Obayet_Thread 50 50000 true
+java Obayet_Thread 50 50000 false
+java Obayet_Thread 100 50000 true
+java Obayet_Thread 100 50000 false
