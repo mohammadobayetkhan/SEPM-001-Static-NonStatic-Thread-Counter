@@ -56,7 +56,6 @@ public class Obayet_Thread implements Runnable {
             return;
         }
 
-        // Reset static counters
         atomicStaticCounter.set(0);
         unsafeStaticCounter = 0;
 
